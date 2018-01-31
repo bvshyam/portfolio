@@ -56,7 +56,7 @@ MIT
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 [//]: # (Python)
-[Resume Chatbot]: <https://github.com/bvshyam/cuny_data_science_repo/tree/master/620%20-%20Web%20Analytics/Project4_IMDB_classifier>
+[Resume Chatbot]: <https://github.com/bvshyam/cuny_data_science_repo/tree/master/620%20-%20Web%20Analytics/Final_project_chatbot/resume_chatbot>
 [Movie Review Classification]: <https://github.com/bvshyam/cuny_data_science_repo/tree/master/620%20-%20Web%20Analytics/Project4_IMDB_classifier>
 [MNIST Classfication]: <https://github.com/bvshyam/cuny_data_science_repo/tree/master/622%20-%20Machine%20Learning/project-deep_learning>
 [Name Finder]: <https://github.com/bvshyam/cuny_data_science_repo/tree/master/620%20-%20Web%20Analytics/Project3_name_finder>
