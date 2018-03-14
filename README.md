@@ -41,8 +41,8 @@ Some recent projects are:
 * [Confidence intervals] - Using CI and normal distribution.
 * [Numerical inference] - Hypothesis related questions.
 * [Probability] - Probability related problems
-* [Calculas and Probability] - Solving some questions on calculas and probability.
-* [Vectors, Matrix, etc] - Some practial problems for math theories like bias, variance, eigen, subspaces, bayes, etc.
+* [Calculus and Probability] - Solving some questions on calculus and probability.
+* [Vectors, Matrix, etc] - Some practical problems for math theories like bias, variance, eigen, subspaces, bayes, etc.
 * [Statistics and Probability, etc] - Solving problems stat and probability.
 
 
@@ -56,6 +56,7 @@ MIT
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 [//]: # (Python)
+[NYC Data Science Challenge]: <https://github.com/bvshyam/NYC_Taxi_Challenge>
 [Resume Chatbot]: <https://github.com/bvshyam/cuny_data_science_repo/tree/master/620%20-%20Web%20Analytics/Project4_IMDB_classifier>
 [Movie Review Classification]: <https://github.com/bvshyam/cuny_data_science_repo/tree/master/620%20-%20Web%20Analytics/Project4_IMDB_classifier>
 [MNIST Classfication]: <https://github.com/bvshyam/cuny_data_science_repo/tree/master/622%20-%20Machine%20Learning/project-deep_learning>
