@@ -6,7 +6,7 @@ Some recent projects are:
 
 ## Python
 
-* [NYC_Taxi DataScience Challenge] - Data science challenge on New York Taxi dataset
+* [NYC Data Science Challenge]:  - Data science challenge on New York Taxi dataset
 * [Resume Chatbot] - This is sort of a QA system using Deep learning and NLP.
 * [Movie Review Classification] - Sentiment classification of movie reviews using Deep learning and NLP.
 * [MNIST Classification] - Digits image classification using deep learning with Keras and Tensorflow. 
